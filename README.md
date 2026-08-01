@@ -1,4 +1,4 @@
-# FocusTrack — Privacy Policy
+# FocusTrack Privacy Policy
 
 Public privacy policy for the **FocusTrack** Android app (`com.focustrack.app`),
 published for the Google Play Store listing.
